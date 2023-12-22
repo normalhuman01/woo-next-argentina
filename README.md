@@ -106,10 +106,6 @@ Thanks to all the people who contributed to the code of this project 🤝
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Author :bust_in_silhouette:
-
-* **[Fabio Jun](https://wpplugins.dev/)**
-
 ## License :page_with_curl:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
