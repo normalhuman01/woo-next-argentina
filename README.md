@@ -87,8 +87,6 @@ The `main` has the GraphQL implementation and is the current development branch.
 ## Important Note ⭐:
 This is a fork from [imhran-sayed's project](https://github.com/imranhsayed/woo-next/), customized for argentina market.
 
-Este é um [fork do projeto do imhran-sayed](https://github.com/imranhsayed/woo-next/), personalizado para o mercado brazileiro.
-
 ## Code Contributors ✰
 
 Thanks to all the people who contributed to the code of this project 🤝
